@@ -24,7 +24,7 @@ const CheckOut = () => {
             email,
             date,
             price: price,
-            _id,
+            
             img,
             service: title,
             
